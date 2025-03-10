@@ -12,5 +12,5 @@ Elève ingénieur en 1ère année de classe préparatoire intégrée à UniLaSal
 
 Mail étudiant : maxence.gay@etu.unilasalle.fr
 
-linkedin: www.linkedin.com/in/maxence-gay-613145352
+[LinkedIn](https://www.linkedin.com/in/maxence-gay-613145352)
 
