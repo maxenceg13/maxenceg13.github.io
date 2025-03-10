@@ -1,22 +1,16 @@
 ---
 layout: promo-page
 title: Qui suis-je?
-description: "Ceci est un exemple de CV que vous pouvez générer par vous-même"
 menubar: menu_bar
 hero_image: assets/imgs/image.png
-hero_image_alt: Ma photo
+hero_image_alt: 
 hero_image_ratio: is-1by1
 ---
 
-# Prénom NOM
-Elève ingénieur en [préciser sa spécialité]
+# Maxence GAY
+Elève ingénieur en 1ère année de classe préparatoire intégrée à UniLaSalle Amiens
 
+Mail étudiant : maxence.gay@etu.unilasalle.fr
 
-Disponible XX mois à partir de Date
-
-[Prenom.Nom[at]xxx.com](mailto:Prenom.Nom@xxx.com)
-
-[LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
-
-Permis B, voiture
+linkedin: www.linkedin.com/in/maxence-gay-613145352
 
