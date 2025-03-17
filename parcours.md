@@ -1,25 +1,21 @@
 ---
 layout: page
 title: Mon parcours
-description: "Ceci est un exemple de CV que vous pouvez générer par vous-même"
+description: 
 menubar: menu_bar
 download_cv: assets/docs/Template_CV.pdf
 ---
 
 ## Formation 
 
-`20XX – 20XX`
-**Nom de votre école**
+`2024`
+UniLaSalle Amiens
 
-Elève ingénieur en [préciser la spécialité]
-* Cours : préciser les cours en phase avec le poste visé
+Elève ingénieur en cycle préparatoire ingénieur Numérique et Énergie
+* Cours : Mathématiques; Électroniques; Systèmes Informatiques; Physique; Algorithme et Programmations...
 
-`20XX – 20XX`
-**DUT [préciser la spécialité]** - Université [préciser le lieu]
-* Cours : préciser les cours en phase avec le poste visé
-
-`20XX`
-Bac [préciser la spécialité], mention éventuelle, Lieu
+`2024`
+Bac générale Mathématiques et Physique-chimie, Beauvais Oise (60)
 
 ## Expériences
 
@@ -46,8 +42,8 @@ _Intitulé du poste dans une équipe de XX membres_
 ## Compétences
 
 Langues
-* LV1 à préciser : niveau à préciser (résultat d’examen)
-* LV2 à préciser : niveau à préciser (résultat d’examen)
+* LV1 à préciser : Anglais 
+* LV2 à préciser : Chinois
 
 Informatique
 * Logiciels maitrisés
