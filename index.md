@@ -2,7 +2,7 @@
 layout: promo-page
 title: Qui suis-je?
 menubar: menu_bar
-hero_image: documents/github.jpg
+hero_image: github.jpg
 hero_image_alt: 
 hero_image_ratio: is-1by1
 ---
